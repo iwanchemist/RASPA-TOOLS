@@ -1,3 +1,10 @@
+"""
+Script Name: analyze_flexibility.py
+Description: Script used to analyze the flexibility MOF structure 
+Author     : Ahmad Syarwani
+
+"""
+
 def calculate_volume(a, b, c):
     return a * b * c
 
